@@ -1,1 +1,1 @@
-https://github.com/Manishmeena10038/TEXT2EMOGI-converter/deployments/github-pages
+https://manishmeena10038.github.io/TEXT2EMOGI-converter/
